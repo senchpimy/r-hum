@@ -1,10 +1,8 @@
-# Hunoide 3D
+# Humanoide 3D
 
 ![Project Preview](project.png)
 
-Este repositorio contiene modelos 3D diseñados para ensamblar un humanoide utilizando servomotores.
-
-Ensamblaje sencillo sin necesidad de herramientas especializadas.
+Este repositorio contiene modelos 3D diseñados para ensamblar un humanoide que funciona con servomotores.
 
 ## Requisitos
 - Impresora 3D (FDM o SLA).
